@@ -1,0 +1,32 @@
+﻿SKYDECK glavni nosač SLT 375		8	
+SKYDECK glavni nosač SLT 225		803	
+SKYDECK glavni nosač SLT 150		133	
+SKYDECK ivična greda SRT-2 150		23	
+SKYDECK ivična greda SRT-2 75		21	
+SKYDECK lajsna sal 150			629		
+SKYDECK lajsna SAL 75			97	
+SKYDECK lajsna SAL 50			82	
+SKYDECK lajsna SAL 37,5			0	
+SKYDECK pomoćna glava SSK		365	
+SKYDECK padajuća glava SFK		1341	
+SKYDECK ivični oslonac SSL		3	
+SKYDECK kombinovana glava SCK		59	
+Tronožac univerzalni pocinkovani	55	
+Podupirač PEP20-500			82		
+Anker jednostrane oplate DW 15		0		
+SKYDECK panel SDP 150x75		1795		
+SKYDECK panel SDP 150x50		283		
+SKYDECK panel 150x37,5			1	
+SKYDECK panel SDP 75x75			44	
+SKYDECK panel SDP 75x50			33	
+SKYDECK panel SDP 75x37,5		3	
+PROKIT bočnazaštitna mreža PMB 260	72	
+Brzomontažni gelender ograde novi	60	
+SKYDECK spojnica panela SPK		122	
+Paleta SD 150x75 poc			1	
+Paleta RP 2 80x150 poc			0	
+Paleta RP 2 80x120 poc			46	
+Rešetkaste kutije lakirane 		12	
+Velika paleta SD 150x225 poc		0	
+Kutija za sitne delove			0	
+Podupirač PEP ALPHA D-350		1443	
